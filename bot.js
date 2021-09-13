@@ -6,8 +6,8 @@ const { Botact } = require("botact")
 const app = express()
 const bot = new Botact
 ({
-    token: "cccd94bb8a38b201f49fc6324bb09e9dfc92ac8e1f002584cc9b523bf6399ca372f03ba04a10954bd6f86",
-    confirmation: "58d11087"
+    token: "token",
+    confirmation: "confirm"
 })
 
 let days = 
